@@ -1,3 +1,19 @@
-Este projeto foi desenvolvido no contexto acadêmico com o objetivo de automatizar um processo que era realizado manualmente em uma clínica veterinária: o controle de entrada e saída de medicamentos em estoque, que anteriormente era registrado em cadernos pelo estoquista. A falta de automação tornava o processo mais suscetível a erros e dificultava o gerenciamento eficiente do estoque.
+# 🐾 Sistema de Controle de Estoque Veterinário
 
-A aplicação foi desenvolvida utilizando Java no back-end, Java Swing para a interface gráfica e MySQL como banco de dados relacional externo, com todo o desenvolvimento realizado na IDE Eclipse. O projeto teve foco 100% na linguagem Java, visando o aprendizado prático, a integração com banco de dados e a construção de uma solução funcional que represente um cenário próximo ao ambiente real de desenvolvimento de software.
+## 📌 Sobre o Projeto
+
+Este projeto foi desenvolvido no contexto acadêmico, com o objetivo de **automatizar** o **controle de entrada e saída** de medicamentos em uma **clínica veterinária.**
+Antes da aplicação, todo o processo era realizado manualmente, por meio de anotações em cadernos feitas pelo estoquista, o que tornava o controle mais suscetível a erros e dificultava a gestão eficiente do estoque.
+
+Com a automação, o sistema passa a oferecer maior organização, confiabilidade e praticidade, aproximando-se de um cenário real enfrentado por clínicas veterinárias no dia a dia.
+
+
+## ⚙️ Tecnologias Utilizadas
+
+☕ *Java* — **linguagem principal do projeto**
+
+🖥️ *Java Swing* — **desenvolvimento da interface gráfica**
+
+🗄️ *MySQL* — **banco de dados relacional externo**
+
+🛠️ *Eclipse IDE* — **ambiente de desenvolvimento**
